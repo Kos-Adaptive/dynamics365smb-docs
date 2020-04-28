@@ -15,7 +15,7 @@ ms.author: edupont
 
 [!INCLUDE[d365fin](includes/d365fin_md.md)] is available in an increasing number of countries across the world. If you want to learn about [!INCLUDE [prodshort](includes/prodshort.md)], you can sign up for a free trial. Then, when you are ready, you can talk to a reselling partner about getting a subscription.  
 
-If you are not already working with a partner, see [How do I find a reselling partner?](across-faq.md#findpartner).  
+If you are not already working with a partner, please see [How do I find a reselling partner?](across-faq.md#findpartner).  
 
 ## Getting Started with a Trial
 
